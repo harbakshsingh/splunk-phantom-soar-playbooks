@@ -39,7 +39,7 @@ colorama==0.4.6
     # via robotframework-tidy
 cryptography==43.0.0
     # via paramiko
-h11==0.14.0
+h11==0.16.0
     # via httpcore
 httpcore==1.0.5
     # via httpx
