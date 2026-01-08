@@ -131,7 +131,7 @@ typing-extensions==4.12.2
     #   pydantic
     #   pydantic-core
     #   rich-click
-urllib3==2.2.2
+urllib3==2.6.3
     # via requests
 wheel==0.43.0
     # via pip-tools
