@@ -133,7 +133,7 @@ typing-extensions==4.12.2
     #   rich-click
 urllib3==2.2.2
     # via requests
-wheel==0.43.0
+wheel==0.46.2
     # via pip-tools
 
 # The following packages are considered to be unsafe in a requirements file:
